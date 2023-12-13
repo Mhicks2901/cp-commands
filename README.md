@@ -48,3 +48,11 @@ Project consists of a couple helpful command prompt commands that helps the user
 
 - Checks for file fragmentation, disk errors, bad sector
    <img src="https://i.imgur.com/jLowUCx.png"/>
+
+<h2>SHUTDOWN: Turn off Computer</h2>
+- Commonly used as a scheduled task or part of an IT batch job after patches have been applied to a computer system. (/i will bring up a window, /s will just issue the command instead)
+<img src="https://i.imgur.com/UPsiXrt.png"/>
+
+<h2>NETSTAT: Network Statistics</h2>
+-  Get a list of all active TCP connections from your computer.
+<img src="https://i.imgur.com/QBCQnW6.png"/>
