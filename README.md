@@ -5,8 +5,7 @@
 <h1>Simple Command Prompt Commands</h1>
 
 <h2>Description</h2>
-Project consists of a couple helpful command prompt commands that helps the user have more control over their computer.
-
+The project consists of a couple of helpful command prompt commands that help the user have more control over their computer.
 
 <h2>Languages and Utilities Used</h2>
 
